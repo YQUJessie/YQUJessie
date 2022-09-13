@@ -4,8 +4,8 @@
  
  This is the place where I opensource stuff and break things :) 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to expand knowledge domains, gain experience, and collaborate with other content creators
-- 🥅 2022 Goals: Find a Job!!
+- 👯 I’m looking to expand knowledge domains, gain experiences, and collaborate with other content creators
+- 🥅 2022 Goals: Find a Job and keep learning!!
 - ⚡ Fun fact: I love to draw and dance
 
 ---
